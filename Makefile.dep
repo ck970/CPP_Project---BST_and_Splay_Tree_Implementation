@@ -1,0 +1,4 @@
+BST.o: BST.cpp BST.h
+Splay.o: Splay.cpp Splay.h
+Node.o: Node.cpp Node.h
+main.o: main.cpp BST.h BST.cpp Splay.h Splay.cpp Node.h Node.cpp
